@@ -1,5 +1,5 @@
 require "minitest/spec"
-require"minitest/autorun"
+require "minitest/autorun"
 require "welcome"   # Add in this line, this comment is optional
 
 describe Welcome do
